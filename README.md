@@ -1,7 +1,7 @@
 <html lang="en"><head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <meta http-equiv="Content-Style-Type" content="text/css">
-  <link rel="icon" href="favicon.ico">
+  <link rel="icon" href="https://i.postimg.cc/fTjcvrb2/download.png">
   <title>Certificate of completion from W3schools
   <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
   </title>  
