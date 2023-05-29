@@ -2,7 +2,9 @@
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <meta http-equiv="Content-Style-Type" content="text/css">
   <link rel="icon" href="favicon.ico">
-  <title>Certificate of completion from W3schools</title>  
+  <title>Certificate of completion from W3schools
+  <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+  </title>  
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="W3schools offers exams, courses, references and exercises in all the major languages of the web. Covering popular subjects like HTML, CSS, JavaScript, Python, SQL, Java and more.">
