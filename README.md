@@ -147,14 +147,14 @@
           <path d="M15.7727 6.83362L10.0685 14.5745C9.93246 14.7549 9.7296 14.8732 9.50552 14.9027C9.28143 14.9321 9.0549 14.8703 8.87683 14.7311L4.8035 11.4745C4.44405 11.1868 4.38585 10.6622 4.6735 10.3028C4.96115 9.94334 5.48572 9.88514 5.84516 10.1728L9.24183 12.8903L14.431 5.84778C14.6012 5.59244 14.8979 5.45127 15.2033 5.48032C15.5088 5.50936 15.7736 5.70393 15.8926 5.98676C16.0116 6.2696 15.9655 6.59494 15.7727 6.83362Z" fill="white"></path>
           </svg> Completed: <span id="completionDate">July 28, 2023</span>
         </div>
-        <img id="diplomaImgMobile" class="diploma-img diploma-img-mobile" src="20230923_122403.jpg">
-        <a href="20230923_122403.jpg" download="certificate.png">
+        <img id="diplomaImgMobile" class="diploma-img diploma-img-mobile" src="20230923_125240.jpg">
+        <a href="20230923_125240.jpg" download="certificate.png">
 <button id="downloadBtn" class="btn download-btn">Download certificate</button>
 </a>
         <a id="learnMoreTxt" target="_blank" class="learn-more-text" href="https://campus.w3schools.com/collections/certifications/products/html-certificate">Learn more about this exam</a>
       </div>
       <div class="body-item body-item-right">
-        <img id="diplomaImg" class="diploma-img" src="20230923_122403.jpg">
+        <img id="diplomaImg" class="diploma-img" src="20230923_125240.jpg">
       </div>
       <div id="loadSpinner" class="spinner_round_even spinner_size_large d-none"></div>
       <div id="errors" class="error-wrp d-none">
